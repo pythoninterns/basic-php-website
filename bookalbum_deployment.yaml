@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: bookalbumbatch3
+kind: Deployment
 metadata:
   name: bookalbumbatch3
   labels:
